@@ -1,1 +1,1 @@
-# parked-domain
+# Landing page for Marty Louis parked domains.
